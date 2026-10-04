@@ -1,0 +1,13 @@
+# Dados da empresa (não publicar)
+*.xlsx
+*.xls
+*.csv
+Base de dados/
+dados/
+resultados/
+
+# Arquivos gerados
+graficos/
+__pycache__/
+*.pyc
+.spyproject/
